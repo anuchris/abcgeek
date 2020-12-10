@@ -1,0 +1,6 @@
+table
+greenscreen
+mics
+computers
+desks
+telepromter
