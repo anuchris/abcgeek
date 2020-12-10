@@ -4,3 +4,6 @@ mics
 computers
 desks
 telepromter
+mirrow
+dresing room
+make up
