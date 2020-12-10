@@ -7,3 +7,5 @@ telepromter
 mirrow
 dresing room
 make up
+pen
+notebook
